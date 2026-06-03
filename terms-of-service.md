@@ -19,7 +19,11 @@ Tiny Days allows household members to create and share baby care records. You ar
 
 ## Medical Disclaimer
 
-Tiny Days is not medical software and does not provide medical advice, diagnosis, or treatment. Care predictions, reminders, timelines, and summaries are informational only. Always consult a qualified medical professional for medical questions or emergencies.
+Tiny Days is not medical software and does not provide medical advice, diagnosis, treatment, or professional child care guidance.
+
+Any estimates, forecasts, reminders, predictions, timelines, summaries, or pattern analysis shown in Tiny Days are informational only. They are based on available app data and may be incomplete, inaccurate, delayed, or wrong. They should not be treated as fact.
+
+Tiny Days is not a replacement for recommended child care practices, caregiver judgment, pediatric care, emergency care, or advice from a licensed medical professional. Always consult a qualified medical professional for child health, feeding, sleep, development, emergency, or safety concerns.
 
 ## Emergency Features
 
@@ -55,4 +59,3 @@ For questions about these Terms, contact:
 
 **Matt Sutton**  
 [sheepiiHD@gmail.com](mailto:sheepiiHD@gmail.com)
-

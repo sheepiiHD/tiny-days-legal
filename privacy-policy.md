@@ -28,7 +28,13 @@ Tiny Days uses information to:
 - Show feeding, sleep, diaper, notes, contractions, and care history.
 - Send household notifications, widget updates, reminders, and emergency alerts.
 - Support app widgets, shortcuts, and voice-action features.
-- Improve care predictions and app behavior for your household.
+- Generate reminders, forecasts, estimates, and care predictions for your household.
+
+## Estimates And Care Predictions
+
+Tiny Days may use care history to show estimates, forecasts, reminders, or predictions, such as likely feeding or sleep timing. These estimates are informational only and can be incomplete, inaccurate, delayed, or wrong. They should not be treated as fact or relied on as a substitute for caregiver judgment, recommended child care practices, or advice from a licensed medical professional.
+
+Parents and caregivers should continue to consult qualified medical professionals for child health, feeding, sleep, development, emergency, or safety concerns.
 
 ## Data Sharing
 
@@ -80,4 +86,3 @@ For questions about this Privacy Policy, contact:
 
 **Matt Sutton**  
 [sheepiiHD@gmail.com](mailto:sheepiiHD@gmail.com)
-
